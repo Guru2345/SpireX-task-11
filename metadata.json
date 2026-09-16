@@ -1,0 +1,6 @@
+{
+  "name": "Weather",
+  "description": "Real-time weather dashboard displaying live temperature, humidity, and atmospheric conditions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
